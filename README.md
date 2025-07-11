@@ -1,14 +1,14 @@
-LONDON SHORTLET ANALYSIS
+## LONDON SHORTLET ANALYSIS
 
-INTRODUCTION
+**INTRODUCTION**
 
 Presenting this comprehensive analysis of our property listing operation derived from the Power BI dashboard. This analysis examines short-let property listings across London neighborhoods to uncover key trends in pricing, host behavior, and market availability.
 
-BACKGROUND 
+**BACKGROUND**
 
 In an environment where market trends are constantly shifting and both host and guest expectations are evolving, a data-driven approach is paramount. This analysis, presented through our comprehensive Power BI dashboard, aims to provide an in-depth understanding of our market's performance, customer behaviors, host dynamics, and geographical influences.
 
-TOOLS USED 
+**TOOLS USED**
 
 This comprehensive analysis and interactive dashboard were developed leveraging the following tools:
 
@@ -19,13 +19,13 @@ This comprehensive analysis and interactive dashboard were developed leveraging 
 	•Visualizations: Power BI's robust visualization capabilities were employed to design and render the interactive and insightful charts and graphs
 These tools collectively enabled us to transform raw data from Kaggle into a coherent, clean, and actionable analytical dashboard, providing a clear and dynamic view of our property listing market
 
-ANALYSIS 
+**ANALYSIS**
 
 Analysis 1: Market Overview & Geographic Concentration
 
 What is the overall scale and distribution of properties and hosts across different neighborhoods, and where are the primary areas of market activity?
 
-Key Insights & Strategies:
+**Key Insights & Strategies**
 
 a) Host Diversity: With 68K properties and 45K hosts, the ratio of approximately 1.5 properties per host indicates a mix of individual owners and professional managers, with Single Host being the majority (37.9K) but Multiple Host is also significant (30.8K).
 
@@ -43,7 +43,7 @@ Analysis 2: Property Type & Pricing Dynamics
 
 What types of properties dominate the market, how do their average prices vary geographically, and how does availability influence pricing?
 
-Key Insights & Strategies
+**Key Insights & Strategies**
 
 a) Dominant Property Types: Entire home/apartment(40.25K) and Private room (26.96K) dominate the listings, with Shared room and Hotel room being negligible.  Focus product development and marketing efforts on enhancing the experience and features for entire homes/apartments and private rooms. The primary revenue will come from these two segments.
 
@@ -61,7 +61,7 @@ Analysis 3: Performance & Retention
 
 How well are properties performing in terms of reviews and occupancy, and what is the guest retention rate?
 
-Key Insights & Strategies:
+**Key Insights & Strategies**
 
 a) Review-Driven Performance:  The Top Reviewed Apartment section points to successful listings. Prioritizing features that encourage guest reviews (e.g., post-stay reminders, review incentives), developing a system to highlight and learn from top-reviewed apartments and hosts will help drive business operations.
 
@@ -80,7 +80,7 @@ Analysis 4: Revenue and stay type
 
 How does the length of stay affect pricing and revenue potential, and how can daily revenue be maximized?
 
-Key Insights 
+**Key Insights**
 
 a) Average Stay Duration: The Average Customer Stay of 6 days indicates a market largely focused on short-to-medium term rentals, implying frequent turnovers.
 
@@ -89,7 +89,7 @@ b) Long vs. Short Stay Pricing: The visual indicates that Average Price of Long 
 ![Image](https://github.com/user-attachments/assets/96e35b88-441e-49d8-a2a3-ace445f9c9ec)
 
 
-CONCLUSION
+**CONCLUSION**
 
 The in-depth analysis of the property listing dashboard reveals a robust and evolving market with substantial financial promise. Strategic takeaways from our findings include:
 
@@ -111,3 +111,10 @@ In essence, our data points to a market poised for significant strategic optimiz
 
 
 ![Image](https://github.com/user-attachments/assets/0559af13-a449-4cc4-89b4-3f86f56a71f2)
+
+
+📊 **ANALYST**
+
+**ADEWALE IDOWU VICTOR**
+
+https://www.linkedin.com/in/adewale-idowu-0880a4164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
